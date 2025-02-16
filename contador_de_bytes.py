@@ -15,7 +15,7 @@ def get_folder_size(folder):
 
 def main():
     # Defina o caminho da pasta principal que contém as pastas internas.
-    pasta_principal = "C:/Users/T-Gamer/Desktop/Junho"  # altere para o caminho desejado
+    pasta_principal = ""  # altere para o caminho desejado
 
     # Defina o nome do arquivo de saída
     arquivo_saida = "tamanho_pastas.txt"
